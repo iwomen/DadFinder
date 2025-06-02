@@ -34,7 +34,7 @@ So here it is: my first official “submission.”
 
 ## ✅ How to Play
 
-1. Download the `AIS_Finder.exe` from the [Releases](#) tab
+1. Download the `Dad_Finder.exe` from the [Releases](#) tab
 2. Double-click to run (no Python needed)
 3. Enjoy the game — it's short, sweet, and just a little weird 😄
 
