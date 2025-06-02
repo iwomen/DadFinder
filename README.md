@@ -42,4 +42,8 @@ So here it is: my first official “submission.”
 
 ## 🙌 Thanks
 
-Huge thanks to the open-source community, and to ChatGPT for making it possi
+Huge thanks to the open-source community, and to ChatGPT for making it possible for people like me — who didn’t even know where to start — to **build and ship something real.**
+
+---
+
+Made with curiosity and persistence ✨
